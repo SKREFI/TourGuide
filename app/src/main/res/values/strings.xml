@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Tour Guide</string>
+
+    <string name="museums_en">Museums</string>
+    <string name="hotels_en">Hotels</string>
+    <string name="park_en">Parks</string>
+
+    <string name="h1_name">Oltenia Hotel</string>
+    <string name="h1_link">olteniahotel.ro</string>
+    <string name="h1_description">A very nice place to stay for a short period a little bit away from the downtown!</string>
+
+    <string name="h2_name"></string>
+    <string name="h2_link"></string>
+    <string name="h2_description"></string>
+</resources>
