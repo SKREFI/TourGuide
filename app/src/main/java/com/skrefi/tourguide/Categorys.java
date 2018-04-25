@@ -15,7 +15,8 @@ public class Categorys extends AppCompatActivity {
 
         TextView tvHotels = findViewById(R.id.hotels_textview);
         TextView tvParks = findViewById(R.id.parks_textview);
-        TextView tvMuseums = findViewById(R.id.parks_textview);
+        TextView tvMuseums = findViewById(R.id.museum_textview);
+        TextView tvRestaurants = findViewById(R.id.restaurants_textview);
 
         tvHotels.setOnClickListener(new View.OnClickListener() {
             @Override
@@ -35,6 +36,13 @@ public class Categorys extends AppCompatActivity {
             @Override
             public void onClick(View v) {
                 startActivity(new Intent(Categorys.this,Museums.class));
+            }
+        });
+
+        tvRestaurants.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                startActivity(new Intent(Categorys.this,Restaurants.class));
             }
         });
     }

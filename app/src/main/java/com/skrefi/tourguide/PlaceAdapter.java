@@ -15,7 +15,7 @@ import java.util.ArrayList;
 public class PlaceAdapter extends ArrayAdapter<Place>{
 
     public PlaceAdapter(Context context, ArrayList<Place> places){
-        super(context,0);
+        super(context,0,places);
     }
 
     public static class ViewHolder{

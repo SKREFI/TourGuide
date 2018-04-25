@@ -20,6 +20,7 @@
         <activity android:name=".Hotels" />
         <activity android:name=".Parks" />
         <activity android:name=".Museums" />
+        <activity android:name=".Restaurants"></activity>
     </application>
 
 </manifest>

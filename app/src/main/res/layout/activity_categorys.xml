@@ -25,5 +25,11 @@
         android:background="@color/museum_collor"
         android:text="@string/museums_en" />
 
+    <TextView
+        android:id="@+id/restaurants_textview"
+        style="@style/CategoryStyle"
+        android:background="@color/restaurant_collor"
+        android:text="@string/restaurants_en"/>
+
 
 </LinearLayout>

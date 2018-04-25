@@ -4,12 +4,37 @@
     <string name="museums_en">Museums</string>
     <string name="hotels_en">Hotels</string>
     <string name="park_en">Parks</string>
+    <string name="restaurants_en">Restaurants</string>
 
     <string name="h1_name">Oltenia Hotel</string>
     <string name="h1_link">olteniahotel.ro</string>
     <string name="h1_description">A very nice place to stay for a short period a little bit away from the downtown!</string>
 
-    <string name="h2_name"></string>
-    <string name="h2_link"></string>
-    <string name="h2_description"></string>
+    <string name="h2_name">Europeca</string>
+    <string name="h2_link">www.hoteleuropeca.ro</string>
+    <string name="h2_description">Description for the second hotel. I am out of creativity.</string>
+
+    <string name="p1_name">Nicolae Romanescu</string>
+    <string name="p1_link">ro.wikipedia.org/wiki/Parcul_Nicolae_Romanescu</string>
+    <string name="p1_description">This is the most beautyful parks maybe in the country with 100ha.</string>
+
+    <string name="p2_name">Botanica</string>
+    <string name="p2_link">n/a</string>
+    <string name="p2_description">Smaller but still nice. You can visit the greenhouse which is full of exotic plants.</string>
+
+    <string name="m1_name">Arts Museum</string>
+    <string name="m1_link">http://www.muzeuldeartacraiova.ro/</string>
+    <string name="m1_description">Here you can visit some of the famouse George Cosbuc s works!</string>
+
+    <string name="m2_name">Oltenia s Museum</string>
+    <string name="m2_link">www.muzeulolteniei.ro/ro</string>
+    <string name="m2_description">For the REVIEWER: Why can t I use what is missing between the CAN and T in string ? 'this is not visible</string>
+
+    <string name="r1_name">La Rocca</string>
+    <string name="r1_link">www.restaurantlarocca.ro/</string>
+    <string name="r1_descrpition">Here you can taste the old traditional romanian food!</string>
+
+    <string name="r2_name">Restaurant Galaxy</string>
+    <string name="r2_link">www.restaurantgalaxy.ro/</string>
+    <string name="r2_descrpition">Good food and chill environment!</string>
 </resources>

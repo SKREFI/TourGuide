@@ -5,9 +5,8 @@ import android.os.Bundle;
 import android.widget.ListView;
 
 import java.util.ArrayList;
-import java.util.List;
 
-public class Museums extends AppCompatActivity {
+public class Restaurants extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -16,8 +15,8 @@ public class Museums extends AppCompatActivity {
 
         final ArrayList<Place> places = new ArrayList<>();
 
-        places.add(new Place(R.drawable.muzeu_de_arta,getString(R.string.m1_name),getString(R.string.m1_link),getString(R.string.m1_description)));
-        places.add(new Place(R.drawable.muzeu_olteniei,getString(R.string.m2_name),getString(R.string.m2_link),getString(R.string.m2_description)));
+        places.add(new Place(R.drawable.galaxy_restaurant,getString(R.string.r1_name),getString(R.string.r1_link),getString(R.string.r1_descrpition)));
+        places.add(new Place(R.drawable.rocca,getString(R.string.r2_name),getString(R.string.r2_link),getString(R.string.r2_descrpition)));
 
         PlaceAdapter placeAdapter = new PlaceAdapter(this,places);
 
